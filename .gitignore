@@ -1,0 +1,15 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local model and calibration data
+face_landmarker.task
+calibration.json
+calibration_reports/
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
